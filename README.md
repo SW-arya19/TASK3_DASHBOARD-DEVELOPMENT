@@ -26,4 +26,4 @@ Additionally, the dashboard provides drill-through and drill-down capabilities, 
 
 Finally, the dashboard serves as an effective tool for decision-making, offering a streamlined and efficient way to analyze large datasets. Whether used for business intelligence, performance tracking, or reporting, it simplifies data interpretation and enhances data-driven decision-making.
 
-**OUTPUT**:
+**OUTPUT**:![Image](https://github.com/user-attachments/assets/a25fb641-be9f-4ab0-93b0-ce371148af46)
